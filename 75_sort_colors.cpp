@@ -1,4 +1,4 @@
-// dutch national flag algorithm
+// Dutch national flag algorithm
 
 class Solution {
 public:

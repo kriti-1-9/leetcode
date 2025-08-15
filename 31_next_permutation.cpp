@@ -1,3 +1,5 @@
+// c++ STL => next_permutation(A.begin(), A.end()); => whole code;
+
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
