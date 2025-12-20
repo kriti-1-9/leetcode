@@ -32,6 +32,7 @@ public:
         while(q.size() > 0) {
             Node* curr = q.front();
             q.pop();
+            
 
             if(curr == NULL) {
                 if(q.size() == 0) {
